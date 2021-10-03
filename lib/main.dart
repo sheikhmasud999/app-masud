@@ -27,7 +27,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         backgroundColor: Colors.cyanAccent,
         centerTitle: true,
-        title: Text("Masud Sheikh"),
+        title: Text("Sheikh Masud"),
       ),
       body: Container(
 
